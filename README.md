@@ -1,4 +1,4 @@
-# Animal Crossing Price Sheet
+# Animal Crossing: New Horizons Price Sheet
 
 Easy way to calculate your saving, fish/bugs/misc items as well as turnips all in one place
 
