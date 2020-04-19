@@ -6,10 +6,10 @@ Easy way to calculate your saving, fish/bugs/misc items as well as turnips all i
 - How much you have in bugs and fish and how much you can earn from C.J and Flick too.
 - Also tracks other miscellaneous things like gold nuggets.
 
-Google Sheet: https://docs.google.com/spreadsheets/d/1CtHwVfKUJbI2gymyewYFWS_BM5Ybk1AMY0f_ZVLufEs/copy
-
 Data from https://nookipedia.com
 
-Example;
+- Google Sheet: https://docs.google.com/spreadsheets/d/1CtHwVfKUJbI2gymyewYFWS_BM5Ybk1AMY0f_ZVLufEs/copy
+- Microsoft Excel/LibreOffice: https://github.com/JaLDesign/Animal-Crossing-Price-Sheet/releases/download/1.3/AC_NW.Price.Sheet.1.3.xlsx
 
+Example:
 ![img](https://i.imgur.com/MX3jh2P.png)
